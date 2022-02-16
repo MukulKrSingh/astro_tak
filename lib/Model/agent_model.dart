@@ -1,0 +1,3 @@
+class AgentModel {
+  AgentModel();
+}
